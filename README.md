@@ -11,9 +11,7 @@
 - 🌱 I’m currently learning **Solidity, MERN**
 
 - 📫 How to reach me **parvtkaria@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ttzL-JT8Mu3GFMQATw4wMmIrXysaturB/view?usp=drive_link](https://drive.google.com/file/d/1ttzL-JT8Mu3GFMQATw4wMmIrXysaturB/view?usp=drive_link)
-
+  
 - ⚡ Fun fact **I am hilarious**
 
 <h3 align="left">Connect with me:</h3>

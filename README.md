@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/D4D16AQHp0GlWjC2H2w/profile-displaybackgroundimage-shrink_350_1400/0/1689068792255?e=1702512000&v=beta&t=SF_t3tTQG57pd6pFTSxeaBXS81A2D26ISJDIQSWo9Qc)
+![MasterHead](https://media.licdn.com/dms/image/D4D16AQE5x5c0ZPqv-A/profile-displaybackgroundimage-shrink_350_1400/0/1697273732720?e=1702512000&v=beta&t=gVXYUgv4TbbZfOCUILPTyGLqtSlGcDYYYTx2EhaDO8g)
 <h1 align="center">Hi 👋, I'm Parv Karia</h1>
 <h3 align="center">A passionate developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">

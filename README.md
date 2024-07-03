@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parvkaria&label=Profile%20views&color=0e75b6&style=flat" alt="parvkaria" /> </p>
 
-- 🔭 I’m currently working on **Blockchain Project**
+- 🔭 I’m currently working on **Software Development & DSA**
 
-- 🌱 I’m currently learning **Solidity, MERN**
+- 🌱 I’m currently learning **Cybersecurity & Trading**
 
 - 📫 How to reach me **parvtkaria@gmail.com**
   
